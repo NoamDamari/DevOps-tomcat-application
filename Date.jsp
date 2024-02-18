@@ -9,7 +9,7 @@
     <h1>This is my web page</h1>
     <h1>Current Date</h1>
     <% 
-        java.util.Date currentDate = new java.util.Date();
+        java.util.Date currentDate = new java.util.Date()FAILURE
         out.println("Today's date is: " + currentDate);
     %>
 </body>
